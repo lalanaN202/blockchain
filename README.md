@@ -1,5 +1,7 @@
 Day-2 Blockchain by partnr
 
+The respective codes for smart contract and token are given in codes files.
+
 1. Create your own DAOs
 refer to the video given below in order to create a DAO.
 https://user-images.githubusercontent.com/103526896/163097282-6ccbbb4d-2c8d-4451-a710-4a6eb11f525d.mp4
