@@ -8,6 +8,7 @@ The file contains detail description of the steps needed to:
 2. Create a token
 3. Write a smart contract
 4. Host an event on spatial.io
+
 [day2.pdf](https://github.com/lalanaN202/blockchain/files/8496113/day2.pdf)
 
 1. Create your own DAOs
