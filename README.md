@@ -17,7 +17,9 @@ refer to the video given below in order to create a DAO.
 https://user-images.githubusercontent.com/103526896/163097282-6ccbbb4d-2c8d-4451-a710-4a6eb11f525d.mp4
 
 Disclaimer: we need atleast 0.2ETH to create a DAOs
+
 https://faucets.chain.link/rinkeby
+
 get free ETH using link above
 
 2. Create your own token
